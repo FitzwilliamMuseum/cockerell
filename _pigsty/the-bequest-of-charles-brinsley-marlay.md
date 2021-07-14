@@ -2,7 +2,7 @@
 layout: default
 title: The Bequest of Charles Brinsley Marlay
 permalink: /pigsty-to-palace/the-bequest-of-charles-brinsley-marlay
-imafe: /images/MAR.T.30-1912.jpg
+image: /images/MAR.T.30-1912.jpg
 ---
 Cockerell's first great benefactor was Charles Brinsley Marlay. Educated at Eton and Trinity College, Cambridge, he was a wealthy bachelor with considerable estates in Ireland and a large London house, which he filled with an extensive art collection. He was a member of the Burlington Fine Arts Club and Cockerell met him through the manuscript exhibition he organised there in 1908.
 
