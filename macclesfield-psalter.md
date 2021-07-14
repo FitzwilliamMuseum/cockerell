@@ -3,6 +3,9 @@ layout: default
 title: The Macclesfield Psalter
 ---
 
+![The Macclesfield Psalter The Office of the Dead, man urinating Folios 235 (verso)]({{site.baseurl}}/images/MS%201-2005%28f235v%29.jpeg "The Macclesfield Psalter The Office of the Dead, man urinating Folios 235 (verso)")
+![The Office of the Dead, man urinating Folios 236 (recto)]({{site.baseurl}}/images//MS%201-2005%28f236r%29.jpeg "The Office of the Dead, man urinating Folios 236 (recto)")
+
 East Anglia, probably Norwich, c.1330-1340
 
 Purchased in 2005 with grants from the National Heritage Memorial Fund, the Art Fund, the Friends of the Fitzwilliam Museum, the Friends of the National Libraries, the Cadbury Trust, and with contributions from a public appeal launched by the Art Fund
