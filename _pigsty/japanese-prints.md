@@ -2,9 +2,12 @@
 title: Japanese prints
 layout: default
 permalink: /pigsty-to-palace/japanese-prints/
+image: /images/P.3615-R.jpg
 ---
 ### Katsukawa Shunshō (c. 1726-1792)
 {: .text-success .display-5 }
+
+<img alt="Katsukawa Shunshō  (c.1726-1792) 'The actor Ichikawa Danjūrō V as  the monk Shunkan', c.1775" class="img-fluid" title="Katsukawa Shunshō, 'The actor Ichikawa Danjūrō V as  the monk Shunkan', c.1775" src="{{site.baseurl}}/images/P-3666-R.jpg">
 
 Katsukawa Shunshō  (c.1726-1792)
 'The actor Ichikawa Danjūrō V as  the monk Shunkan', c.1775
@@ -18,6 +21,8 @@ Since the 1890s he had admired the Japanese prints and drawings in Ricketts and 
 
 ### Katsushika Hokusai (1760-1849)
 {: .text-success .display-5 }
+
+<img alt="Katsushika Hokusai (1760-1849) 'Minamoto no Muneyuki Ason', c. 1835" class="img-fluid" src="{{site.baseurl}}/images/P.3615-R.jpg"  title="Katsushika Hokusai (1760-1849) 'Minamoto no Muneyuki Ason', c. 1835">
 
 Katsushika Hokusai (1760-1849) 'Minamoto no Muneyuki Ason', c. 1835
 
@@ -33,6 +38,8 @@ This print was part of the celebrated Punnett collection of 161 prints and 26 bo
 
 ### Utagawa Kunisada (1786-1864)
 {: .text-success .display-5 }
+
+<img alt="Utagawa Kunisada (1786-1864) 'Ichikawa Danjōrō VII as Kan  Shōjō (top) and Segawa Kikunojō  V as Umeōmaru (bottom)', c. 1833" class="img-fluid" src="{{site.baseurl}}/images/P.512-1937.jpg"  title="Utagawa Kunisada (1786-1864) 'Ichikawa Danjōrō VII as Kan  Shōjō (top) and Segawa Kikunojō  V as Umeōmaru (bottom)', c. 1833">
 
 Utagawa Kunisada (1786-1864) 'Ichikawa Danjōrō VII as Kan  Shōjō (top) and Segawa Kikunojō  V as Umeōmaru (bottom)', c. 1833
 

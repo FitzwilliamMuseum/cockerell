@@ -2,6 +2,7 @@
 layout: default
 permalink: /pigsty-to-palace/
 title: From Pigsty to Palace
+image: /images/GR.4.1919.jpg
 ---
 
 Cockerell's spectacular acquisitions exacerbated the problem of space. He ensured that new collections came with funds for new galleries. In 1912 the bequest of Charles Brinsley Marlay funded Cockerell's first building campaign. Designed by Arnold Dunbar Smith and Cecil Brewer, and completed in 1924, the Marlay Galleries were praised for their innovative treatment of space and natural lighting. In 1925 Cockerell approached the wealthy and philanthropic Courtauld family.
@@ -20,7 +21,7 @@ He 'humanised' the galleries by introducing the 'country house' style. Fine furn
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
         <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">
-          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{author.image}}" alt="Card image cap" width="300" height="300"/>
+          <img class="card-img-top img-fluid" src="{{site.url}}{{site.baseurl}}{{author.image | replace: "images/", "images/thumbnails/" }}" alt="Card image cap" width="300" height="300"/>
         </a>
         <div class="card-body">
           <h3 class="lead mt-2">
