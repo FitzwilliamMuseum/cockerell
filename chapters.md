@@ -2,12 +2,18 @@
 layout: default
 permalink: /a-new-chapter/
 title: 'A new chapter of my life'
-
+image: /images/SydneyCockerell.jpeg
 ---
+<figure class="figure">
+<img src="{{site.baseurl}}/images/SydneyCockerell.jpeg" alt="Sydney Cockerell portrait" class="img-fluid" height="200"/>
+<figcaption>Sydney Cockerell portrait</figcaption>
+</figure>
 
 The directorship of Sydney Cockerell (1908-1937) is celebrated as one of the most dynamic and enriching periods in the history of the Fitzwilliam Museum. While some Cambridge dons saw him as an outsider to academia, a self-made man without a university degree, others welcomed him as the ideal agent of reform.
 
-A disciple of John Ruskin, William Morris and Wilfrid Blunt, Cockerell knew a wide range of styles and media, the art market of fin-du-siècle Europe, the leading artists and the most discerning private collectors of the day. He brought to Cambridge a consummate taste shaped by the Arts and Crafts and Aesthetic Movements, a shrewd business sense and sound pragmatism (sharpened by his experience in the family coal firm), wealthy patrons, boundless energy, infectious enthusiasm and a passionate belief in the role of museums as catalysts of social progress.
+A disciple of John Ruskin, William Morris and Wilfrid Blunt, Cockerell knew a wide range of styles and media, the art market of fin-du-siècle Europe, the leading artists and the most discerning private collectors of the day.
+
+He brought to Cambridge a consummate taste shaped by the Arts and Crafts and Aesthetic Movements, a shrewd business sense and sound pragmatism (sharpened by his experience in the family coal firm), wealthy patrons, boundless energy, infectious enthusiasm and a passionate belief in the role of museums as catalysts of social progress.
 
 Cockerell transformed the Fitzwilliam Museum from a cabinet of curiosities reserved for the privileged few into a 'Palace of the Arts' open to 'all the world.'
 

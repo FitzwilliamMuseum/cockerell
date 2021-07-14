@@ -2,7 +2,12 @@
 title: William Scawen Blunt
 layout: default
 permalink: /a-new-chapter/william-scawen-blunt/
+image: /images/Blunt_in_1900.jpeg
 ---
+<figure>
+<img alt="Wilfrid Blunt 1900" src="{{site.baseurl}}/images/Blunt_in_1900.jpeg" class="img-fluid" />
+<figcaption>Wilfrid Blunt 1900</figcaption>
+</figure>
 The Wilfrid Blunt Papers bequeathed by him in 1922
 
 A member of the establishment, a former diplomat and a wealthy landowner, Wilfrid Blunt was also a famous horse-breeder and a talented poet. He was married to Byron's granddaughter, Lady Anne, but counted some of the most beautiful women in contemporary society among his lovers, including William Morris's wife, Jane. A day after Morris's death Blunt summed up his complex opinion of him: 'He is the most wonderful man I have known, unique in this that he had no thought for anything or person, including himself, but only for the work he had in hand, and those who could help him with it... I have seen him tender to his daughter Jenny and nice with her and with his wife, but I doubt whether he thought of them much when he did not see them, and his life was not arranged with reference to them... The truth is he would not give an hour of his time to anyone. He held it to be too valuable.'
