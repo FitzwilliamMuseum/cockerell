@@ -22,11 +22,12 @@ title: "I turned it into a palace"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   "'I turned it into a palace' Sir Sydney Cockerell and the Fitzwilliam Museum"
-baseurl: "/cockerell" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cockerel.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/mw217970.jpeg"
+google_analytics: "G-2R0YLY9DRS"
 # Build settings
 plugins:
   - jekyll-feed
