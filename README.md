@@ -1,5 +1,6 @@
 # I Turned it into a Palace: Sir Sydney Cockerell and the Fitzwilliam Museum
 
+![Palace social](https://repository-images.githubusercontent.com/385660801/c22a3dca-952c-4832-9aff-1927f337efd9)
 
 This representative selection of exhibits introduces the main themes of the exhibition ‘I Turned it into a Palace: Sir Sydney Cockerell and the Fitzwilliam Museum’ (The Fitzwilliam Museum, 4 November 2008 - 17 March 2009).
 
