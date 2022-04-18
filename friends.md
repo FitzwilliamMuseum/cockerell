@@ -2,7 +2,6 @@
 layout: default
 permalink: /friends/
 title: The Friends of the Fitzwilliam Museum
-
 ---
 
 While Cockerell secured major donations and bequests, he had no funds for purchases on a comparable scale. In 1909 he founded the Society of Friends of the Fitzwilliam Museum. Modelled on the Amis de Louvre, they were the first group of supporters established at a British art institution. Cockerell mobilised the local and national press to recruit members, both
