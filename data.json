@@ -44,6 +44,7 @@
             "thumbnail": "{{site.url}}{{ entry.image | xml_escape }}",
             "image":  "{{site.url}}{{ entry.image | xml_escape }}"
         },
+    {% endfor %}
     {% for entry in site.content %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
